@@ -1,15 +1,10 @@
-
-
 * {
   margin: 0;
   padding: 0;
   background-color: #111;
-  
 
   box-sizing: border-box;
   outline: 1px solid limegreen !important;
-
-
 }
 .navbar {
   /* background-color: #222; */
@@ -175,27 +170,27 @@
   height: 233px;
   border-radius: 32px;
 }
-.allproject{
+.allproject {
   font-family: "Space Grotesk", Arial, sans-serif;
   flex-wrap: wrap;
   display: flex;
   column-gap: 60px;
 }
-.project-card{
+.project-card {
   width: 300px;
   margin-top: 64px;
 }
-.project-card h2{
-font-size: 40px;
-font-weight: 600;
+.project-card h2 {
+  font-size: 40px;
+  font-weight: 600;
 }
 
-.project-card h3{
-font-size: 20px;
-font-weight: 200;
+.project-card h3 {
+  font-size: 20px;
+  font-weight: 200;
 }
 
-.project-card h4{
+.project-card h4 {
   display: inline-flex;
   flex-direction: row;
   justify-content: space-between;
@@ -203,47 +198,97 @@ font-weight: 200;
   padding: 2px 16px 2px 16px;
   margin-top: 8px;
   background-color: #fff;
-font-size: 16px;
-font-weight: 400;
-color: black;
-border-radius: 8px;
-gap: 8px;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  border-radius: 8px;
+  gap: 8px;
 }
-.project-card span h4{
+.project-card span h4 {
   background-color: #0e36b6;
   color: #fff;
 }
-.project-card a{
+.project-card a {
   display: inline-block;
   text-decoration: none;
   color: #fff;
   font-size: 24px;
   margin-top: 16px;
 }
-.project-card a::after{
+.project-card a::after {
   content: " →";
 }
 .project-header h1 {
   font-family: "Mochiy Pop One", sans-serif;
   font-size: 96px;
-  
 }
-.project-header span{
-   background: linear-gradient(to top, #2454ff 45%, transparent 45%);
- 
+.project-header span {
+  background: linear-gradient(to top, #2454ff 45%, transparent 45%);
 }
-.card-view{
+.card-view {
   display: flex;
   justify-content: center;
   align-items: center;
-  
-background-color: #0e36b6;
-border-radius: 10%;
+
+  background-color: #0e36b6;
+  border-radius: 10%;
 }
 .viewproject {
-margin: auto;
+  margin: auto;
 }
-.viewproject a{
-margin: 0;
-background-color: #0e36b6;
+.viewproject a {
+  margin: 0;
+  background-color: #0e36b6;
+}
+.rent {
+  display: flex;
+  flex-wrap: wrap;
+  color: #fff;
+}
+.rent h1 {
+  font-family: "Mochiy Pop One", sans-serif;
+  font-size: 96px;
+  margin-left:64px;
+}
+.rent-main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-left: 31.15px;
+}
+.color-header {
+  background: linear-gradient(to top, #2454ff 45%, transparent 45%);
+}
+.rent-main h2 {
+  font-size: 64px;
+}
+.rent-main h3{
+  font-family: "Space Grotesk", Arial, sans-serif;
+  font-size: 40px;
+  font-weight: 200;
+  line-height: 1.2;
+}
+.rent-header a {
+  display:inline-block;
+text-decoration: none;
+color: #fff;
+padding:8px 64px;
+margin-left: 64px;
+margin-top: 32px;
+}
+.rent-header .contact {
+  
+  background-color: #0e36b6;
+  border: 2px solid #0e36b6;
+  border-radius: 32px;
+  color: #fff;
+  font-size: 32px;
+  font-family: "Space Grotesk", Arial, sans-serif;
+}
+.rent-header .email {
+  background-color: transparent;
+  color: #fff;
+  font-size: 32px;
+  font-family: "Space Grotesk", Arial, sans-serif;
 }
