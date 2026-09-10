@@ -1,10 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #111;
+  background-color: #111111;
 
   box-sizing: border-box;
-  outline: 1px solid limegreen !important;
+  /* outline: 1px solid limegreen !important; */
 }
 .navbar {
   /* background-color: #222; */
@@ -435,4 +435,343 @@
   color: #fff;
   font-size: 20px;
   margin-top: 16px;
+}
+.experient {
+  color: #fff;
+  margin: 64px;
+}
+.experient .experient-header h1 {
+  font-family: "Mochiy Pop One", sans-serif;
+  font-size: 96px;
+}
+.experient .experient-header h1 span {
+  background: linear-gradient(to top, #2454ff 45%, transparent 45%);
+}
+.experient .experient-2026 {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 91px;
+  margin-top: 65px;
+}
+.experient .experient-2026 h2 {
+  font-size: 150px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 0.8;
+  font-weight: 200;
+    background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+    width: 250px;
+    padding: 15px 0 0 30px;
+
+}
+.experient .body-experient-2026 h3 {
+  font-size: 64px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  line-height: 0.8;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.experient .body-experient-2026 .trans {
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+   font-size:40px;
+}
+.experient .body-experient-2026 p{
+  font-size:30px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  font-weight: 50;
+}
+
+.experient .body-experient-2026 a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 16px;
+}
+
+ .experient-2025 {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 91px;
+  margin-top: 100px;
+}
+.experient .experient-2025 h2 {
+  font-size: 100px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 0.8;
+  font-weight: 200;
+    width: 250px;
+    padding: 15px 0 0 0px;
+
+}
+
+.experient .body-experient-2025 h3 {
+  font-size: 64px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  line-height: 0.8;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.experient .body-experient-2025 .trans {
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+   font-size:40px;
+}
+.experient .body-experient-2025 p{
+  font-size:30px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  font-weight: 50;
+}
+
+.experient .body-experient-2025 a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 16px;
+}
+.experient .experient-2023 {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 91px;
+  margin-top: 100px;
+}
+.experient .experient-2023 h2 {
+  font-size: 100px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 0.8;
+  font-weight: 200;
+    width: 250px;
+    padding: 15px 0 0 0px;
+
+}
+
+.experient .body-experient-2023 h3 {
+  font-size: 64px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  line-height: 0.8;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.experient .body-experient-2023 .trans {
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+   font-size:40px;
+}
+.experient .body-experient-2023 p{
+  font-size:30px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  font-weight: 50;
+}
+
+.experient .body-experient-2023 a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 16px;
+}
+
+.education {
+  color: #fff;
+  margin: 64px;
+}
+.education .education-header h1 {
+  font-family: "Mochiy Pop One", sans-serif;
+  font-size: 96px;
+  margin-bottom: 64px;
+}
+.education .education-header h1 span {
+  background: linear-gradient(to top, #2454ff 45%, transparent 45%);
+}
+.education .education-2026{
+  box-sizing: border-box;
+display:inline-flex;
+justify-content: space-between;
+}
+
+.education .education-2026{
+  display: flex;
+justify-content: space-between;
+}
+.education .education-2026 .smk{
+  width: 423px;
+  height: 280px;
+  border-radius: 32px;
+}
+
+.education .education-2026 .untag{
+  width: 867px;
+  height: 280px;
+  border-radius: 32px;
+}
+.body-edu-1{
+  display: flex;
+  flex-direction: column;
+  font-family: "space Grotesk", Arial, sans-serif;
+  margin-top: 28px;
+}
+.body-edu-1 h1{
+font-size: 48px;
+}
+
+.body-edu-1 p{
+  font-size: 40px;
+  font-weight: 50;
+}
+
+.body-edu-1 .footer{
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.body-edu-1 .footer h2 {
+  font-size: 20px;
+}
+
+.body-edu-1 .footer h3{
+  font-size: 20px;
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+  
+
+}
+.body-edu-1 .footer a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+} 
+
+.body-edu-2{
+  display: flex;
+  flex-direction: column;
+  font-family: "space Grotesk", Arial, sans-serif;
+  margin-top: 64px;
+}
+.body-edu-2 h1{
+font-size: 48px;
+}
+
+.body-edu-2 p{
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.body-edu-2 .footer{
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.body-edu-2 .footer h2 {
+  font-size: 20px;
+}
+
+.body-edu-2 .footer h3{
+  font-size: 20px;
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+  
+
+}
+.body-edu-2 .footer a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+} 
+.contact{
+  color: #fff;
+  margin-left: 64px;
+  margin-right: 64px;
+  box-sizing: border-box;
+  background-color: #141414; 
+  font-family: "space Grotesk", Arial, sans-serif;
+}
+.contact h1{
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  gap: 30px;
+  background-color: #141414; 
+  
+
+}
+.contact h1 span{
+  background: linear-gradient(to top, #2454ff 45%, transparent 45%);
+  padding: 0 0 0 0;
+
+  background-color: #141414; 
+}
+.contact h2{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 8px;
+  
+  background-color: #141414; 
+}
+.cp{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 28px;
+  font-size: 20px;
+  
+  background-color: #141414; 
+}
+.conser{
+  display: flex;
+  margin: 38px 430px 0 430px;
+  justify-content: space-between;
+  
+  background-color: #141414; 
+}
+.conser .contact-link{
+  box-sizing: border-box;
+  border-radius: 32px ;
+  padding: 8px 64px ;
+  border: 2px solid #0e36b6;
+  background-color: #0e36b6;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: #fff;
+}
+.conser .email-link{
+  text-decoration: none;
+  color: #fff;
+ font-size: 20px; 
+ text-align: center;
+ justify-content: center;
+ padding-top: 9px;
+}
+.footer{
+  display: inline-flexbox;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 91px;
+  /* margin-bottom: 64px; */
+  color: #fff;
+}
+.footer h1{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.footer .icon{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 5px;
+  margin-bottom: 60px;
 }
