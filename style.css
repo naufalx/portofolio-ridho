@@ -248,7 +248,7 @@
 .rent h1 {
   font-family: "Mochiy Pop One", sans-serif;
   font-size: 96px;
-  margin-left:64px;
+  margin-left: 64px;
 }
 .rent-main {
   display: flex;
@@ -263,22 +263,21 @@
 .rent-main h2 {
   font-size: 64px;
 }
-.rent-main h3{
+.rent-main h3 {
   font-family: "Space Grotesk", Arial, sans-serif;
   font-size: 40px;
   font-weight: 200;
   line-height: 1.2;
 }
 .rent-header a {
-  display:inline-block;
-text-decoration: none;
-color: #fff;
-padding:8px 64px;
-margin-left: 64px;
-margin-top: 32px;
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  padding: 8px 64px;
+  margin-left: 64px;
+  margin-top: 32px;
 }
 .rent-header .contact {
-  
   background-color: #0e36b6;
   border: 2px solid #0e36b6;
   border-radius: 32px;
@@ -291,4 +290,149 @@ margin-top: 32px;
   color: #fff;
   font-size: 32px;
   font-family: "Space Grotesk", Arial, sans-serif;
+}
+.company {
+  color: #fff;
+  margin: 64px;
+}
+.company .company-header h1 {
+  font-family: "Mochiy Pop One", sans-serif;
+  font-size: 96px;
+}
+.company .company-header h1 span {
+  background: linear-gradient(to top, #2454ff 45%, transparent 45%);
+}
+.company .company-2026 {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 91px;
+  margin-top: 65px;
+}
+.company .company-2026 h2 {
+  font-size: 150px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 0.8;
+  font-weight: 200;
+    background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+    width: 250px;
+    padding: 15px 0 0 30px;
+
+}
+.company .body-2026 h3 {
+  font-size: 64px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  line-height: 0.8;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.company .body-2026 .trans {
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+   font-size:40px;
+}
+.company .body-2026 p{
+  font-size:30px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  font-weight: 50;
+}
+
+.company .body-2026 a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 16px;
+}
+
+
+.company .company-2025 {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 91px;
+  margin-top: 100px;
+}
+.company .company-2025 h2 {
+  font-size: 100px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 0.8;
+  font-weight: 200;
+    width: 250px;
+    padding: 15px 0 0 0px;
+
+}
+
+.company .body-2025 h3 {
+  font-size: 64px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  line-height: 0.8;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.company .body-2025 .trans {
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+   font-size:40px;
+}
+.company .body-2025 p{
+  font-size:30px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  font-weight: 50;
+}
+
+.company .body-2025 a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 16px;
+}
+.company .company-2023 {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 91px;
+  margin-top: 100px;
+}
+.company .company-2023 h2 {
+  font-size: 100px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 0.8;
+  font-weight: 200;
+    width: 250px;
+    padding: 15px 0 0 0px;
+
+}
+
+.company .body-2023 h3 {
+  font-size: 64px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  display: flex;
+  line-height: 0.8;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.company .body-2023 .trans {
+   background: linear-gradient(to top, #2454ff 50%, transparent 45%);
+   font-size:40px;
+}
+.company .body-2023 p{
+  font-size:30px;
+  font-family: "space Grotesk", Arial, sans-serif;
+  font-weight: 50;
+}
+
+.company .body-2023 a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 16px;
 }
